@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" href="stylelogin.css">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+</head>
+
+<body>
+
+    <img src="media/Banco_do_Brasil_logo.svg.png" alt="logo" id="logo">
+
+    <main>
+
+
+        <section id="login">
+
+            <div id="iformulario">
+
+                <h1>Faca seu login para adicionar vagas</h1>
+
+                <form action="login.php" method="post" autocomplete="on">
+
+                    <fieldset>
+
+                        <legend>CPF</legend>
+
+                        <input id="ilogin" name="login" type="email" placeholder="Seu CPF" autocomplete="email" required
+                            maxlength="10">
+
+                    </fieldset>
+
+                    <fieldset>
+
+                        <legend>Senha</legend>
+
+                        <input type="password" name="senha" id="isenha" placeholder="Sua Senha"
+                            autocomplete="current-password" required minlength="5" maxlength="10">
+
+                    </fieldset>
+
+                    <a class="botao" href="esqueci.html">Esqueci a senha</a>
+
+                    <button type="submit" id="ienviar">Entrar</button>
+
+
+
+                </form>
+
+            </div>
+
+            <div id="loginimagem">
+
+            </div>
+
+        </section>
+    </main>
+</body>
+
+</html>
