@@ -130,7 +130,7 @@ border: 1px solid black;
 
 section#login > div#loginimagem{
     display: block;
-    background: #5f2c82 url(media/tiro-vertical-de-baixo-angulo-de-arranha-ceus-em-uma-fachada-de-vidro-em-frankfurt-alemanha.jpg) no-repeat;
+    background: #5f2c82 url(../media/tiro-vertical-de-baixo-angulo-de-arranha-ceus-em-uma-fachada-de-vidro-em-frankfurt-alemanha.jpg) no-repeat;
     background-size: cover;
     background-position: center center;
     height: 100%;
