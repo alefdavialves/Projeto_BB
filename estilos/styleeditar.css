@@ -37,13 +37,20 @@ border-radius: 50px;
 
 }
 
-#voltar  {
+#voltar {
+display: flex;
+align-items: center;
+
+
+}
+
+#voltarimg  {
 
 width: 50px;
 height: 50px;
 margin-left: 20px;
 margin-top: 5px;
-
+margin-right: 10px
 
 }
 
