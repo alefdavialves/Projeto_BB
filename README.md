@@ -1,2 +1,2 @@
-# projeto_bb
-Projeto desenvolvido para o Banco do Brasil com o Porto Digital
+# Projeto_BB
+Projeto desenvolvido com o Porto Digital e o Banco do Brasil
