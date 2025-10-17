@@ -61,10 +61,8 @@ section#naoconcluidas h2 {
 
 #vagaimg {
 
-    height: 80%;
-    display: flex;
-    align-items: flex-start;
-    justify-content: center;
+    height: 100%;
+
 
 }
 
@@ -72,7 +70,6 @@ section#naoconcluidas h2 {
 
     width: 70px;
     height: 70px;
-    margin-left: 10px;
 
 }
 
